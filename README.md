@@ -2,4 +2,4 @@
 
 Text books to be studied
 
-Additional papers and books: https://github.com/papers-we-love/papers-we-love
+Additional papers and books: https://backbencher-note.netlify.app/
